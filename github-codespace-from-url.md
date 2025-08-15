@@ -6,12 +6,15 @@ If your repo lives at https://github.com/[username]/[reponame] use https://codes
 
 ## Example
 
-Using the repo for Simon Willison's great `llm` library: https://codespaces.new/simonw/llm?quickstart=1. Once the Codespace is running, execute `` in the terminal to install the LLM library, then run Python and try this:
+Using the repo for Simon Willison's great `llm` library, visit https://codespaces.new/simonw/llm?quickstart=1. Once the Codespace is running, execute this in the terminal
 
 ```bash
-pip install -e .  # Install the llm library from the repo
-llm install llm-github-models  # Get 
+pip install -e .               # Install the `llm`` library from the local repo
+llm install llm-github-models  # Get the plugin for the GitHub LLMs
+python
 ```
+
+Then, run this in Python:
 
 ```python
 import llm
