@@ -6,7 +6,7 @@ If your repo lives at https://github.com/[username]/[reponame] use https://codes
 
 ## Example
 
-Using the repo for Simon Willison's great `llm` library, visit https://codespaces.new/simonw/llm?quickstart=1. Once the Codespace is running, execute this in the terminal
+Using the repo for [Simon Willison's](https://simonwillison.net/) great `llm` library, visit https://codespaces.new/simonw/llm?quickstart=1. Once the Codespace is running, execute this in the terminal
 
 ```bash
 pip install -e .               # Install the `llm`` library from the local repo
@@ -23,7 +23,7 @@ for chunk in model.prompt("Give me three interesting facts about Minerva."):
     print(chunk, end="")
 ```
 
-It turns out the container comes with a token (GITHUB_TOKEN in the environment) that gives you free, rate-limited access to GPT-4.1!
+It turns out the container comes with a token (`GITHUB_TOKEN` in the environment) that gives you free, rate-limited access to GPT-4.1!
 
 ## Configuration
 
