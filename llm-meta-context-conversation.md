@@ -20,7 +20,7 @@ The context document is a _living_ document. You should review and update it reg
 
 ## The Meta-Conversation
 
-The best part is that you can use an LLM to help you create and refine the context document. My meta-conversation started like this. I'll use finding/applying for a job as an example here.
+The best part is that you can use an LLM to help you create and refine the context document. My meta-conversation started like this. I'll use finding/applying for a job as an example here. All phrases specific to this example are **highlighted in bold**.
 
 > This is a bit meta but I want to develop a context document for an AI assistant to help it help me **better apply for a job**. I would like you to help me develop that context document. I can provide any information required to put together a document but I'm not sure what the right questions are so that's where I can use your help. What should be in the context document so that I can provide that to another assistant and ask it to help me perform other tasks like **improve my CV or a cover letter, or determine which jobs I might be a good fit for**?
 > 
